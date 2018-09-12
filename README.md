@@ -1,4 +1,12 @@
-# jToolkit
+# jToolkit  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[![Language](https://img.shields.io/badge/language-Java-orange.svg)]()
+[![Language](https://img.shields.io/badge/language-OpenGL-blue.svg)]()
+[![Language](https://img.shields.io/badge/shading%20language-GLSL-lightgray.svg)]()
+[![Status](https://img.shields.io/badge/status-Legacy%20Code%20(2013)-green.svg)]()
+[![License](https://img.shields.io/badge/licence-MIT-yellow.svg)]()
+
+**Last Update: 12/September/2018.**
 
 # ✍️ About 
 A collection of various utilities, classes and shaders for `Java`+`OpenGL`+`GLSL`(fixed function pipeline mostly) programming.  The sources were originally developed for education pusposes and then I decided to open source everything.
