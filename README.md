@@ -23,6 +23,7 @@ Simply copy-paste `shader programms` and `classes` into your project. Import the
 # 📚 Contents
 [*] *The term `Object` referes to the commonly used naming convention in `OpenGL` (`Vertex Buffer Object`, `Vertex Index Object` etc.) and has no relation to `Object-Oriented Paradigm`.*
 
+Tools, Data Structures and Utilities:
 - [Accumulation Buffer](https://github.com/jVirus/jToolkit/blob/master/src/tasks/AccumulationBuffer.java) - high-level tool for `OpenGL's Accumulation Buffer`
 - [Stencil Buffer](https://github.com/jVirus/jToolkit/blob/master/src/tasks/StencilBuffer.java) - high-level tool for `OpenGL's Stencil Buffer`
 - [Walkable Goblin Demo](https://github.com/jVirus/jToolkit/blob/master/src/tasks/WalkingGoblinDemo.java) - demonstrates an `animation` approach related to 3D model and how programmatically you can build `mirrors`
@@ -65,10 +66,32 @@ Simply copy-paste `shader programms` and `classes` into your project. Import the
 - [Terrain](https://github.com/jVirus/jToolkit/tree/master/src/jToolkit4FixedPipeline/terrain)
 - [Vector Data Structre](https://github.com/jVirus/jToolkit/tree/master/src/jToolkit4FixedPipeline/vector)
 
-Also examples of:
+Examples of:
 - [Prgrammable Rendering Pipeline](https://github.com/jVirus/jToolkit/blob/master/src/main/ProgrammablePipeline.java)
 - [Fixed Function Rendering Pipeline](https://github.com/jVirus/jToolkit/blob/master/src/main/FixedPipeline.java)
 
+Shaders:
+- [Base Rendering](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/New%20shaders/Base)
+- [Texturing](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/New%20shaders/Base)
+- [Twist Effect](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/New%20shaders/Twist)
+- [NVIDIA'S GPU Gems Implementation for Wave Simulation](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/New%20shaders/Waves)
+- [Lamberian Light Model](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/Lambertian%20lighting)
+- [Phong Light Model](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/Phong%20lighting)
+- [Ambient Light](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/ambient%20lighting)
+- [Colorize](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/color%20setter)
+- [Diffuse Light](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/diffuse%20lighting)
+- [Flatten Shading](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/flatten)
+- [Landscape/Hightmap Helper](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/landscape)
+- [Per-fragment Phong Light Model](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/per%20fragment%20Phong%20lighting)
+- [Per-fragment Lighting](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/per%20fragment%20lighting)
+- [Per-pixel Phong Light Model](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/per%20pixel%20Phong%20lighting)
+- [Per-pixel Point Light Model](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/per%20pixel%20light%20point)
+- [Per-pixel Spot Light](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/per%20pixel%20spot%20light)
+- [Per-pixel Toon Shading](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/per%20vertex%20toon%20shading)
+- [Plastic Lighing](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/plastic%20lighting)
+- [Specular Lighting 01](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/specular%20lighting%20(00))
+- [Specular Lighting 02](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/specular%20lighting%20(01))
+- [Toon Shading](https://github.com/jVirus/jToolkit/tree/master/shader%20programs/Old%20shaders/toon%20shading)
 
 # 👨‍💻 Author
 [Astemir Eleev](https://github.com/jVirus)
