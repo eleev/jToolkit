@@ -11,6 +11,10 @@
 # ✍️ About 
 A collection of various utilities, classes and shaders for `Java`+`OpenGL`+`GLSL`(fixed function pipeline mostly) programming.  The sources were originally developed for education pusposes and then I decided to open source everything.
 
+# ⚠️ Warning
+- The sources are legacy and were originally developed using `JDK 5.0`, `JDK 6.0`, `OpenGL 1.0`, `OpenGL 1.1`, `OpenGL 1.2`, `OpenGL 2.0`,  and `OpenGL 3.1` - take it into consideration if you decide to use the sources.
+- The used [assets](https://github.com/jVirus/jToolkit/tree/master/res) were found on the `Web` and cannot be used in commertial purposes.
+
 # 🏗 How to Get Started
 Simply copy-paste `shader programms` and `classes` into your project. Import them to class(es) that you need to and you're good to go. 
 
