@@ -31,8 +31,8 @@ Tools, Data Structures and Utilities:
 - [Camera PP](https://github.com/jVirus/jToolkit/blob/master/src/jToolkit4ProgPipeline/file/camera/Camera.java) - implementation of a `camera` for programmable rendering pipeline
 - [Image Loader](https://github.com/jVirus/jToolkit/blob/master/src/jToolkit4ProgPipeline/file/loader/image/ImageLoader.java) 
 - [Model Loader](https://github.com/jVirus/jToolkit/blob/master/src/jToolkit4ProgPipeline/file/loader/model/Loader.java)
-- [Model Object](https://github.com/jVirus/jToolkit/blob/master/src/jToolkit4ProgPipeline/file/model/Model.java) - 
-- [Texture Object](https://github.com/jVirus/jToolkit/blob/master/src/jToolkit4ProgPipeline/file/texture/Texture.java) - 
+- [Model Object](https://github.com/jVirus/jToolkit/blob/master/src/jToolkit4ProgPipeline/file/model/Model.java) 
+- [Texture Object](https://github.com/jVirus/jToolkit/blob/master/src/jToolkit4ProgPipeline/file/texture/Texture.java) 
 - [Timer Utility](https://github.com/jVirus/jToolkit/blob/master/src/jToolkit4ProgPipeline/file/utils/Timer.java)
 - [Matrix Utility](https://github.com/jVirus/jToolkit/tree/master/src/jToolkit4ProgPipeline/file/utils/matrixStack)
 - [Buffer Tools](https://github.com/jVirus/jToolkit/blob/master/src/jToolkit4ProgPipeline/file/utils/buffer/BufferTools.java)
