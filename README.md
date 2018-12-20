@@ -8,6 +8,8 @@
 
 **Last Update: 12/September/2018.**
 
+### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.
+
 # ✍️ About 
 A collection of various utilities, classes and shaders for `Java`+`OpenGL`+`GLSL`(fixed function pipeline mostly) programming.  The sources were originally developed for education pusposes and then I decided to open source everything.
 
