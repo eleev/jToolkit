@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/status-Legacy%20Code%20(2013)-green.svg)]()
 [![License](https://img.shields.io/badge/licence-MIT-yellow.svg)]()
 
-**Last Update: 12/September/2018.**
+**Last Update: 01/January/2019.**
 
 ### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.
 
@@ -23,8 +23,8 @@ Simply copy-paste `shader programms` and `classes` into your project. Import the
 # 📝 Notes
 * You might see that the author in some places is `Virus`. This is my nickname.
 * The used assets were found on the `Web`. *Do not use them for commertial purposes*. They are only used for demostration.
-* My appologies for the lack of comments and proper explanation of what going on inside of complex shaders and classes.
-* The main reason for publishing this code was to share some groundwork related to `OpenGL's` fixed function pipeline, which may be useful for some developers on early stage learnerns
+* My appologies for the lack of comments and proper explanation of what is going on inside of complex shaders and classes.
+* The main reason for publishing this code was to share some groundwork related to `OpenGL's` fixed function pipeline, which may be useful for some developers or early stage learnerns.
 
 # 📚 Contents
 [*] *The term `Object` referes to the commonly used naming convention in `OpenGL` (`Vertex Buffer Object`, `Vertex Index Object` etc.) and has no relation to `Object-Oriented Paradigm`.*
