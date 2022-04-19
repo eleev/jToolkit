@@ -4,9 +4,10 @@
 [![Language](https://img.shields.io/badge/language-OpenGL-blue.svg)]()
 [![Language](https://img.shields.io/badge/shading%20language-GLSL-lightgray.svg)]()
 [![Status](https://img.shields.io/badge/status-Legacy%20Code%20(2013)-green.svg)]()
+[![NLOC](https://img.shields.io/tokei/lines/github/jvirus/jtoolkit)]()
 [![License](https://img.shields.io/badge/licence-MIT-yellow.svg)]()
 
-**Last Update: 01/January/2019.**
+**Last Update: 22/April/2022.**
 
 ### If you like the project, please give it a star ⭐ It will show the creator your appreciation and help others to discover the repo.
 
